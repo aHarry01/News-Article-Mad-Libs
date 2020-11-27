@@ -1,6 +1,6 @@
 # News Article Mad Libs
 
-This program gets news articles from [Associated Press News](https://apnews.com/) and turns them into mad libs that the user can play.
+This program gets news articles from [Associated Press News](https://apnews.com/) and turns them into mad libs that the user can play. It asks the user for nouns, proper nouns, verbs, adverbs and adjectives and uses these words to replace words with the same part of speech in the news article.
 
 ## Dependencies
 * [Python 3.xx](https://www.python.org/downloads/)
